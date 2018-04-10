@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  gettyKey: 'ujzudkt5pqb3unxbbdwcbu5m',
+  gettyKey: 'ujzudkt5pqb3unxbbdwcbu5m'
 };
